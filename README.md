@@ -1,11 +1,3 @@
-<p align="center">
-    <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
-    </a>
-    <h1 align="center">Yii 2 Basic Project Template</h1>
-    <br>
-</p>
-
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
 
@@ -67,6 +59,7 @@ Extract the archive file downloaded from [yiiframework.com](http://www.yiiframew
 a directory named `basic` that is directly under the Web root.
 
 Set cookie validation key in `config/web.php` file to some random secret string:
+
 
 ```php
 'request' => [
